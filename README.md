@@ -1,3 +1,3 @@
 # Server-Client-
 
-Basic server client program using socket in java.
+Basic client server program using socket in java.
